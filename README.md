@@ -1,13 +1,13 @@
 
 # GitFav
 
-Projeto realizado para visualização dos seus usuários favoritos do GitHub, desenvolvido utilizando HTML, CSS e JavaScript e consumindo a API do GitHub.
+Project created for viewing by your favorite GitHub users, developed using HTML, CSS and JavaScript and consuming the GitHub API.
 
-## Funcionalidades
+## Functionalities
 
-- Visualização de todos usuários adicionados em uma única tela;
-- Dados do usuário com foto, nome, login, link direcionando para o GitHub, repositórios e seguidores;
-- Botão de remover e barra de rolagem.
+- View all added users on a single screen;
+- User data with photo, name, login, link directing to GitHub, repositories and followers;
+- Remove button and scroll bar.
 
 
 
